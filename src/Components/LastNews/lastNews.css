@@ -1,0 +1,15 @@
+.last__news__container {
+    display: flex;
+}
+
+.last__little__image {
+    flex-direction: column;
+}
+
+.last__little__image :nth-child(2){
+    margin-top: -3px;
+}
+
+.last__repeat__container{
+    flex-direction: column;
+}

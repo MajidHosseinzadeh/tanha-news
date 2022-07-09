@@ -1,0 +1,48 @@
+.comments__container{
+    text-align: right;
+}
+
+.comments__objects__container{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    justify-content: end;
+    align-items: flex-end;
+}
+
+.comments__img{
+    height: 100px;
+    width: 100px;
+}
+
+.comments__img img{
+    height: 100%;
+    width: 100%;
+}
+
+.comments__detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.genre__date{
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+    align-items: center;
+}
+
+.comments__props__container{
+    display: flex;
+    flex-direction: row;
+}
+
+.comments__big__container{
+    display: flex;
+    flex-direction: column;
+}
+
+.comments__imgg{
+    width: 100%;
+}

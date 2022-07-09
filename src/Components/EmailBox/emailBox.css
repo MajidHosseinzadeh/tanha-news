@@ -1,0 +1,29 @@
+.submit__button {
+    height: 3rem;
+    width: 100%;
+    background-color: rgba(97, 181, 84, 255);
+    cursor: pointer;
+    border-color: transparent;
+    margin-left: 5px;
+}
+
+.email__container h1, h4{
+    color: black;
+}
+
+.email__container{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.email__container input{
+    width: 100%;
+    outline: none;
+}
+
+.email__container input :focus{
+    outline: none;
+}

@@ -1,0 +1,49 @@
+.controversial__container{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.controversial__container :nth-child(1){
+    margin-left: 10px;
+}
+
+.controversial__objects__container{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    width: 300px;
+}
+
+.controversial__category a{
+    color: black;
+}
+
+.controversial__img{
+    height: 100px;
+    width: 100px;
+}
+
+.controversial__img img{
+    height: 100%;
+    width: 100px;
+}
+
+.controversial__detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.controversial__props__container{
+    display: flex;
+    flex-direction: row;
+}
+
+big__big__container{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+}

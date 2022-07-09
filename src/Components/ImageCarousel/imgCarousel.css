@@ -1,0 +1,25 @@
+
+
+.carousel__container{
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+}
+
+.carousel__img{
+    height: 100px;
+    width: 100px;
+}
+
+.carousel__img img{
+    height: 100%;
+    width: 100%;
+}
+
+.carousel__detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+

@@ -1,0 +1,43 @@
+.economy__container h1{
+    color: black;
+}
+.economy__genre {
+    height: 3rem;
+    width: 6rem;
+    background-color: rgba(100,1,179,255);
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.economy__container{
+    display: flex;
+    width: 942px;
+    height: auto;
+    flex-direction: column;
+    text-align: right;
+}
+
+.economy__bottom__container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.economy__author__date{
+    display: flex;
+    flex-direction:row-reverse;
+    color: gray;
+}
+
+.economy__bottom__container a{
+    font-size: 12px;
+} 
+
+

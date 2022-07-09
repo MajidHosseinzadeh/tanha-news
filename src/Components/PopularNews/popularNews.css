@@ -1,0 +1,4 @@
+.popular__news__container {
+    display: flex;
+    flex-direction: row;
+}

@@ -1,0 +1,29 @@
+
+
+.controversial__objects__container{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    width: 400px;
+}
+
+.controversial__img{
+    height: 100px;
+    width: 100px;
+}
+
+.controversial__img img{
+    height: 100%;
+    width: 100px;
+}
+
+.controversial__detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.controversial__props__container{
+    display: flex;
+    flex-direction: row;
+}

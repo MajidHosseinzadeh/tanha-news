@@ -1,0 +1,28 @@
+.exercise__objects__container {
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    width: 100%;
+    align-items: flex-end;
+}
+
+.exercise__img {
+    height: 200px;
+    width: 200px;
+}
+
+.exercise__img img {
+    height: 100%;
+    width: 200px;
+}
+
+.exercise__detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.exercise__props__container {
+    display: flex;
+    flex-direction: row;
+}

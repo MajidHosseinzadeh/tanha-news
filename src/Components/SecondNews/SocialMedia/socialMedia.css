@@ -1,0 +1,23 @@
+.social__media{
+    display: grid;
+    grid-template-columns: auto auto;
+
+    
+}
+
+.social__media div{
+    width: 194px;
+    height: 120px;
+    background-color: gray;
+    padding: 20px;
+}
+
+.black__h{
+    color: black;
+}
+
+.social__media__container{
+    display: flex;
+    flex-direction: column;
+    width: 411px;
+}

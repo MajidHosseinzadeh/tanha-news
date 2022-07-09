@@ -1,0 +1,22 @@
+.ads__container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    gap: 30px;
+}
+
+.ads__container :nth-child(1){
+    width: 50%;
+}
+
+.ads__container :nth-child(2){
+    width: 50%;
+}
+
+.ads__big__container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

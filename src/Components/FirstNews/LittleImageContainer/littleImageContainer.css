@@ -1,0 +1,25 @@
+.little__big__div{
+    display: flex;
+    width: 400px;
+    height: 300px;
+    flex-direction: column;
+    text-align: right;
+}
+
+.bottom__div{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+
+.author__date{
+    display: flex;
+    flex-direction:row-reverse;
+    color: gray;
+}
+
+.bottom__div a{
+    font-size: 12px;
+} 
+
+
